@@ -1,8 +1,3 @@
-Of course! Here is a professionally formatted, emoji-filled GitHub README for your Manim animations repository.
-
-You can copy and paste this directly into your `README.md` file. Just replace the placeholders like `[YourUsername]` and `[your-repo]` with your actual information.
-
----
 
 # 🎬 Manim Animation Projects
 
